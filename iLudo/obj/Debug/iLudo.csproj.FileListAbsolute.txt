@@ -1,0 +1,7 @@
+c:\users\hf\source\repos\iLudo\iLudo\obj\Debug\iLudo.csprojResolveAssemblyReference.cache
+c:\users\hf\source\repos\iLudo\iLudo\obj\Debug\iLudo.csproj.CoreCompileInputs.cache
+c:\users\hf\source\repos\iLudo\iLudo\bin\Debug\iLudo.exe.config
+c:\users\hf\source\repos\iLudo\iLudo\bin\Debug\iLudo.exe
+c:\users\hf\source\repos\iLudo\iLudo\bin\Debug\iLudo.pdb
+c:\users\hf\source\repos\iLudo\iLudo\obj\Debug\iLudo.exe
+c:\users\hf\source\repos\iLudo\iLudo\obj\Debug\iLudo.pdb
