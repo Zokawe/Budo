@@ -5,3 +5,10 @@ c:\users\hf\source\repos\iLudo\iLudo\bin\Debug\iLudo.exe
 c:\users\hf\source\repos\iLudo\iLudo\bin\Debug\iLudo.pdb
 c:\users\hf\source\repos\iLudo\iLudo\obj\Debug\iLudo.exe
 c:\users\hf\source\repos\iLudo\iLudo\obj\Debug\iLudo.pdb
+C:\Users\HF\source\repos\Budo\iLudo\bin\Debug\iLudo.exe.config
+C:\Users\HF\source\repos\Budo\iLudo\bin\Debug\iLudo.exe
+C:\Users\HF\source\repos\Budo\iLudo\bin\Debug\iLudo.pdb
+C:\Users\HF\source\repos\Budo\iLudo\obj\Debug\iLudo.csprojResolveAssemblyReference.cache
+C:\Users\HF\source\repos\Budo\iLudo\obj\Debug\iLudo.csproj.CoreCompileInputs.cache
+C:\Users\HF\source\repos\Budo\iLudo\obj\Debug\iLudo.exe
+C:\Users\HF\source\repos\Budo\iLudo\obj\Debug\iLudo.pdb

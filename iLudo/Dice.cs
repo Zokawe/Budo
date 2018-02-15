@@ -17,15 +17,15 @@ namespace iLudo
         }
 
 
-        public int Throwdice()
+        public int DiceThrow()
         {
             this.roll = this.random.Next(1, 7);
 
-            for (int i = 3; i > 0; i--)
+           /* for (int i = 3; i > 0; i--)
             {
                 Console.Write("Rolling...");
                 System.Threading.Thread.Sleep(500);
-            }
+            } */
 
             return this.roll;
         }

@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace iLudo
 {
-    class game
+    public static class Game
     {
+        public static string PlayerOneName = "";
+        public static string PlayerTwoName = "";
+
         public static void Intro()
         {
-            string PlayerOneName = "";
 
             Console.WriteLine("Ludo");
             Console.WriteLine("Welcome to Ludo");
@@ -18,7 +20,12 @@ namespace iLudo
 
             PlayerOneName = Console.ReadLine();
 
+            Console.WriteLine("Choose a name for player 2");
+
+            PlayerTwoName = Console.ReadLine();
+
             Console.WriteLine("player 1 is now called: " + PlayerOneName);
+            Console.WriteLine("player 2 is now called: " + PlayerTwoName);
 
             Console.ReadKey();
         }
